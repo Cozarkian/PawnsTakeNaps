@@ -1,0 +1,7 @@
+P:\SteamLibrary\steamapps\common\RimWorld\Mods\NappingIsFun\1.3\Assemblies\PawnsTakeNaps.dll
+P:\SteamLibrary\steamapps\common\RimWorld\Mods\NappingIsFun\Source\obj\Debug\PawnsTakeNaps.csproj.CoreCompileInputs.cache
+P:\SteamLibrary\steamapps\common\RimWorld\Mods\NappingIsFun\Source\obj\Debug\PawnsTakeNaps.dll
+P:\SteamLibrary\steamapps\common\RimWorld\Mods\PawnsTakeNaps\1.3\Assemblies\PawnsTakeNaps.dll
+P:\SteamLibrary\steamapps\common\RimWorld\Mods\PawnsTakeNaps\Source\obj\Debug\PawnsTakeNaps.csprojAssemblyReference.cache
+P:\SteamLibrary\steamapps\common\RimWorld\Mods\PawnsTakeNaps\Source\obj\Debug\PawnsTakeNaps.csproj.CoreCompileInputs.cache
+P:\SteamLibrary\steamapps\common\RimWorld\Mods\PawnsTakeNaps\Source\obj\Debug\PawnsTakeNaps.dll
